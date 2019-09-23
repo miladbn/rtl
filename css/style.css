@@ -1,0 +1,57 @@
+.my-header-menu {
+    background: #353d4a;
+}
+
+.my-header-ul li a {
+    color: #DEA621 !important;
+    font-weight: bold;
+}
+
+.my-header-ul li a:hover {
+    background: #3e5d74;
+    color: #F1C04A;
+}
+
+.navbar-brand {
+    margin-right: 450px;
+}
+
+.my-header-active {
+    background: #3e5d74;
+    color: #F1C04A;
+}
+
+.owl-carousel img {
+    width: 100vw !important;
+    height: 90vh;
+}
+.subscribe {
+    background: #F6F6F6;
+    border-top: 1px solid #bababa;
+    border-bottom: 1px solid #bababa;
+}
+.subscribe .container {
+    background: #DEA621;
+    border-radius: 3px;
+}
+.subscribe hr {
+    background: white;
+}
+.my-blue-btn {
+    background:#39819c;
+}
+
+footer {
+    background: #3e5d74;
+}
+.abou-us-bg {
+    background: url("../images/write-593333_1920.webp");
+    height: 70vh;
+    width: 100%;
+}
+.abou-us-bg h4 {
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+    font-size: 45px;
+}
